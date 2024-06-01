@@ -2,13 +2,16 @@
 Artificial intelligence (AI) is gradually changing medical practice. With recent progress in digitized data acquisition, machine learning and computing infrastructure, AI applications are expanding into areas that were previously thought to be only the province of human experts.
 
 'Heart-MRI-Image-Left-Atrial-Segmentation-Challenge-Via-Deep-Learning-Models'
+-----------------------------------------------------------------------------
 
 Main ideas of this project; The main goal of this project is to analyze the Cardiac image datasets, Particularly for automated segmentation technique.
 
-Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Heart-MRI-Image-Left-Atrial-Segmentation-Challenge-Via-Deep-Learning-Models
+Coding Tasks & Project outcomes;
+https://github.com/SohelRana-aiub-Pro/Heart-MRI-Image-Left-Atrial-Segmentation-Challenge-Via-Deep-Learning-Models
 
 
 'On-Body Circular Patch Antenna for Breast Cancer Detection'
+---------------------------------------------------------------
 
  Main ideas of this project; The main goal of this thesis based project(Capstone Project) is to detect the presence of breast cancer tumors in women by 
  the variation of S11 parameter of a microstrip patch antenna.
@@ -17,6 +20,7 @@ Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Heart-MRI
  Thesis based Project(Capstone Project) outcomes; https://dspace.aiub.edu/jspui/handle/123456789/1004
 
 'Application of Biomedical Signal Processing, Analysis, and Classification to Identify the Biomarkers of Stroke for Early Prediction and Post-Stroke Recovery.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Main ideas of this project; The main goal of this project is to analyze the Biomedical datasets for Early Stroke Prediction and Post-Stroke Recovery with Statistical Models & AI Models.
 
