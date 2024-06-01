@@ -21,7 +21,6 @@ https://github.com/SohelRana-aiub-Pro/Heart-MRI-Image-Left-Atrial-Segmentation-C
 
 'Application of Biomedical Signal Processing, Analysis, and Classification to Identify the Biomarkers of Stroke for Early Prediction and Post-Stroke Recovery.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Main ideas of this project; The main goal of this project is to analyze the Biomedical datasets for Early Stroke Prediction and Post-Stroke Recovery with Statistical Models & AI Models.
 
 Coding Tasks & Project outcomes; Research & Development based Project work.
@@ -33,8 +32,3 @@ https://physionet.org/about/database/
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 https://physionet.org/content/cves/1.0.0/
-
-
-
-
-
