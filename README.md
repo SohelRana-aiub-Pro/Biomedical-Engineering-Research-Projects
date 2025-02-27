@@ -3,7 +3,7 @@ Artificial intelligence (AI) is gradually changing medical practice. With recent
 
 'Heart-MRI-Image-Left-Atrial-Segmentation-Challenge-Via-Deep-Learning-Models'
 ------------------------------------------------------------------------------
------------------------------------------------------------------------
+
 Main ideas of this project; The main goal of this project is to analyze the Cardiac image datasets, Particularly for automated segmentation technique.
 
 Coding Tasks & Project outcomes;
