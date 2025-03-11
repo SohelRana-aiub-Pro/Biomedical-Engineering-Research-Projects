@@ -32,5 +32,3 @@ https://physionet.org/about/database/
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 https://physionet.org/content/cves/1.0.0/
-
-Example Codes & Prototypes;
